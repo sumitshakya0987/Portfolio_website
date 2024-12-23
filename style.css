@@ -614,6 +614,9 @@ text-align: justify;
     .education-circle-2 {
         display: none;
     }
+    .summary {
+       display:none;
+}
 }
 
 /* skills section */
