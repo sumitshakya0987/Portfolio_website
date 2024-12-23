@@ -359,7 +359,7 @@ text-align: justify;
     .about-me-section {
         flex-direction: column;
         text-align: center;
-      
+        height: 900px;
     }
 }
     
@@ -367,7 +367,7 @@ text-align: justify;
         .about-me-section {
             flex-direction: column;
             text-align: center;
-            height: 580px;
+            height: 900px;
         }
     
         
