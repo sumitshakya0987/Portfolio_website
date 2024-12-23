@@ -353,6 +353,12 @@ text-align: justify;
     margin-top: 1rem;
     color: #ccc;
 }
+  @media (max-width: 1024px) {
+        .about-me-section {
+            flex-direction: column;
+            text-align: center;
+            height: 900px;
+        }
 
 
 @media (max-width: 768px) {
