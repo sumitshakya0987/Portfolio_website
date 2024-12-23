@@ -162,7 +162,7 @@ text-align: justify;
         flex-direction: column;
         align-items: center;
         text-align: center;
-        height: 600px;
+        height: 580px;
     }
 
     .text-section {
@@ -243,6 +243,7 @@ text-align: justify;
     .container {
         border-radius: 0px;
         margin-top: 0;
+        height: 620px;
     
     }
     .image-section img {
