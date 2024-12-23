@@ -280,7 +280,7 @@ text-align: justify;
     margin: 2rem auto;
     border-radius: 15px;
     max-width: 1200px;
-    height: 700px;
+    height: 470px;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -353,7 +353,7 @@ text-align: justify;
     margin-top: 1rem;
     color: #ccc;
 }
-  @media (max-width: 1024px) {
+@media (max-width: 1024px) {
         .about-me-section {
             flex-direction: column;
             text-align: center;
