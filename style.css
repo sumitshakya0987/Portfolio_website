@@ -231,7 +231,7 @@ text-align: justify;
     }
 
     .button {
-        margin-top: 2rem;
+        margin-top: 3rem;
         font-size: 0.9rem;
         padding: 0.6rem 1.2rem;
     }
@@ -243,7 +243,6 @@ text-align: justify;
     .container {
         border-radius: 0px;
         margin-top: 0;
-        height: 620px;
     
     }
     .image-section img {
@@ -354,11 +353,19 @@ text-align: justify;
     margin-top: 1rem;
     color: #ccc;
 }
+@media (max-width: 768px) {
+    .about-me-section {
+        flex-direction: column;
+        text-align: center;
+        height: 600px;
+    }
+}
 
 @media (max-width: 768px) {
     .about-me-section {
         flex-direction: column;
         text-align: center;
+        height: 650px;
     }
 }
     
@@ -485,6 +492,7 @@ text-align: justify;
 }
 
 @media (max-width: 1024px) {
+
     .education-container {
         flex-direction: row;
         align-items: flex-start; /* Align items to start for readability */
@@ -586,7 +594,7 @@ text-align: justify;
 
 @media (max-width: 600px) {
     .education-section{
-        height: 580px;
+        height: 500px;
     }
     .education-container {
         flex-direction: column;
