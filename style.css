@@ -80,7 +80,7 @@ body {
     margin-top: 0.5rem;
     font-size: 1.1rem;
 }
-.summary {
+.summary1 {
 text-align: justify;
 }
 
@@ -154,7 +154,7 @@ text-align: justify;
 }
 
 @media (max-width: 768px) {
-    .summary{
+    .summary1{
         text-align: center;
     }
     .container {
@@ -218,7 +218,7 @@ text-align: justify;
 }
 
 @media (max-width: 480px) {
-    .summary{
+    .summary1{
         text-align: center;
         margin-top: 5rem;
     }
