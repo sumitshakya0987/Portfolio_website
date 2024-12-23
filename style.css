@@ -353,7 +353,7 @@ text-align: justify;
     margin-top: 1rem;
     color: #ccc;
 }
-@media (max-width: 768px) {
+@media (max-width: 1024px) {
     .about-me-section {
         flex-direction: column;
         text-align: center;
@@ -365,7 +365,7 @@ text-align: justify;
     .about-me-section {
         flex-direction: column;
         text-align: center;
-        height: 680px;
+        height: 760px;
     }
 }
     
