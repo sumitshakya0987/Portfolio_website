@@ -620,7 +620,15 @@ text-align: justify;
     .summary {
        display:none;
 }
+   
+    
 }
+@media (max-width: 480px){
+    .summary {
+       display:none;
+}
+}
+
 
 /* skills section */
 .expertise-container {
