@@ -583,6 +583,9 @@ text-align: justify;
         bottom: 2%;
         right: 10%;
     }
+       .summary {
+       display:none;
+}
 }
 
 @media (max-width: 600px) {
