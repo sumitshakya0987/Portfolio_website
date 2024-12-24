@@ -266,13 +266,13 @@ text-align: justify;
 }
 
 .circle-1 {
-    top: 5%;
+    top: 20%;
     left: -5%;
 }
 
 .circle-2 {
     bottom: 25%;
-    right: 1%;
+    right: -5%;
 }
 }
 /* about section */
