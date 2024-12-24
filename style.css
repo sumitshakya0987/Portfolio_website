@@ -239,10 +239,7 @@ text-align: justify;
         padding: 0.6rem 1.2rem;
     }
 
-    .image-section img {
-        width: 120px;
-        height: 120px;
-    }
+   
     .container {
         border-radius: 0px;
         margin-top: 0;
@@ -254,7 +251,7 @@ text-align: justify;
     border-radius: 50%;
     object-fit: cover;
     border: 5px solid #a279ff;
-    margin-bottom: 8rem;
+    margin-bottom: 5rem;
 }
     .decorative-circle {
     position: absolute;
