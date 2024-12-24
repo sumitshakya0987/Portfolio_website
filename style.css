@@ -142,6 +142,9 @@ text-align: justify;
     right: 18%;
 }
 @media (max-width: 1024px){
+    .container{
+        height:600px;
+    }
     .circle-1 {
         top: 17%;
         left: 12%;
