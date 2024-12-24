@@ -195,7 +195,7 @@ text-align: justify;
     border-radius: 50%;
     object-fit: cover;
     border: 5px solid #a279ff;
-    margin-bottom: 3rem;
+    margin-top: 3rem;
 }
     .decorative-circle {
     position: absolute;
@@ -244,6 +244,9 @@ text-align: justify;
         border-radius: 0px;
         margin-top: 0;
     
+    }
+    .image-section{
+        margin-top:3rem;
     }
     .image-section img {
     width: 150px;
