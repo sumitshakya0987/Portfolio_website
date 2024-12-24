@@ -207,12 +207,12 @@ text-align: justify;
 }
 
 .circle-1 {
-    top: -5%;
+    top: 5%;
     left: -5%;
 }
 
 .circle-2 {
-    bottom: 15%;
+    bottom: 10%;
     right: 1%;
 }
 }
@@ -266,12 +266,12 @@ text-align: justify;
 }
 
 .circle-1 {
-    top: -5%;
+    top: 5%;
     left: -5%;
 }
 
 .circle-2 {
-    bottom: 32%;
+    bottom: 25%;
     right: 1%;
 }
 }
